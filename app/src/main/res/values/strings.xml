@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">Mathematics Quiz for Kids</string>
+    <string name="go">GO!</string>
+    <string name="play_again">Play Again</string>
+    <string name="_0_0">0/0</string>
+    <string name="_14">10</string>
+    <string name="_31_7">5+5</string>
+    <string name="correct">Correct!</string>
+    <string name="_30s">30s</string>
+</resources>
